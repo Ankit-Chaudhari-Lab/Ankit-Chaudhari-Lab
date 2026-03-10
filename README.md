@@ -1,6 +1,6 @@
 <h1 align="center"> Hey👋, I'm Ankit Nice to see you </h1>
 <h3 align="center"> I live in Chandrapur📍 </h3>
-<h2 align="center"> How can you Reach me👇 </h2>
+<h3> How can you Reach me👇 </h3>
 
 <a href="your-linkedin-url" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
