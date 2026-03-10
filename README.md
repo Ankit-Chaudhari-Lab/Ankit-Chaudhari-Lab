@@ -2,7 +2,7 @@
 <h4> Welcome to my page, I live in Chandrapur📍 </h4>
 <h3> How can you Reach me👇 </h3>
 
-## Technologies
+### Technologies
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
 ### Programming Languages
