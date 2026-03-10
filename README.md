@@ -13,11 +13,6 @@
 <a> <img src="https://img.icons8.com/color/48/phone.png" width="40"/>
 👉 7709628532 </a>
 <h5></h5>
-  
-![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -75,12 +70,5 @@ Here are some ideas to get you started:
 ## 🛠 Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,pandas,numpy" />
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode" />
-
-Python        █████████░░ 90%
-SQL           ████████░░░ 80%
-Power BI      ███████░░░░ 70%
-Machine Learning ██████░░░░ 60%
 
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github)
