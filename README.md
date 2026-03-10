@@ -1,5 +1,9 @@
 # Hey👋, I'm Ankit Nice to see you
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
