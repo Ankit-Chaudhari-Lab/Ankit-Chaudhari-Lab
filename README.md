@@ -7,8 +7,8 @@
 👉linkedin.com/in/ankit-chaudhari-3b18a7272
 </a>
 
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-  <a> ankitchaudhari1505@gmail.com </a>
+  <a> <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+ankitchaudhari1505@gmail.com </a>
 
 
 </p>
