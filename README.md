@@ -14,6 +14,10 @@
 👉 7709628532 </a>
 <h5></h5>
 
+## Technologies
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,pandas,numpy" />
+
+
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -66,9 +70,5 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 🛠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,pandas,numpy" />
 
 ![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github)
