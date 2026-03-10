@@ -1,6 +1,11 @@
 <h1 align="center"> Hey👋, I'm Ankit Nice to see you </h1>
 <h3 align="center"> I live in Chandrapur📍 </h3>
-<h2 align="center"> How to Reach me </h2>
+<h2 align="center"> How can you Reach me👇 </h2>
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) linkedin.com/in/ankit-chaudhari-3b18a7272
+
+</p>
 
   
 ![Python](https://img.shields.io/badge/Python-blue)
