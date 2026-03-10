@@ -14,7 +14,7 @@
 👉 7709628532 </a>
 
 ## Technologies
-<img src="https://skillicons.dev/icons?i=python,java,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
 
 ### Programming
