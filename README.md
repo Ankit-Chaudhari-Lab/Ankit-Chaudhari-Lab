@@ -2,17 +2,6 @@
 <h4> Welcome to my page, I live in Chandrapur📍 </h4>
 <h3> How can you Reach me👇 </h3>
 
-<a href="your-linkedin-url" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-👉 linkedin.com/in/ankit-chaudhari-3b18a7272
-</a>
-
-<a> <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
-👉 ankitchaudhari1505@gmail.com </a>
-
-<a> <img src="https://img.icons8.com/color/48/phone.png" width="40"/>
-👉 7709628532 </a>
-
 ## Technologies
 <img src="https://skillicons.dev/icons?i=python,java,mysql" />
 
