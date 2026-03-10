@@ -50,3 +50,12 @@
 ![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-orange?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+
