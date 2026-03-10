@@ -1,6 +1,6 @@
-<h1 align="center"> Hey👋, I'm Ankit Nice to see you <h1>
-<h3 align="center"> I live in Chandrapur <h3>
-<h2 align="center"> Contact <h2>
+<h1 align="center"> Hey👋, I'm Ankit Nice to see you </h1>
+<h3 align="center"> I live in Chandrapur </h3>
+<h2 align="center"> Contact </h2>
 
   
 ![Python](https://img.shields.io/badge/Python-blue)
