@@ -47,7 +47,6 @@
 #### - Machine Learning & AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
 
