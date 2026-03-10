@@ -1,4 +1,4 @@
-# Hey👋, I'm Ankit Nice to see you \n
+<h1 align="center"> Hey👋, I'm Ankit Nice to see you <h1>
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Java](https://img.shields.io/badge/Java-red)
