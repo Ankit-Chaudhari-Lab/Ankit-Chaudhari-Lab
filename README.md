@@ -58,3 +58,15 @@ Here are some ideas to get you started:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode,pandas,numpy" />
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,vscode" />
+
+Python        █████████░░ 90%
+SQL           ████████░░░ 80%
+Power BI      ███████░░░░ 70%
+Machine Learning ██████░░░░ 60%
+
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&lineCount=2&theme=github)
