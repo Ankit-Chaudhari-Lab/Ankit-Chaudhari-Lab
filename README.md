@@ -1,6 +1,6 @@
 # Hey👋, I'm Ankit Nice to see you 
 <h4> Welcome to my page, I live in Chandrapur📍 </h4>
-<h3> - Skills I've learned </h4>
+<h3> - Skills I've Learned </h4>
 
 #### - Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,14 +37,17 @@
 ![Descriptive Analysis](https://img.shields.io/badge/Descriptive%20Analysis-teal?style=for-the-badge)
 ![Inferential Analysis](https://img.shields.io/badge/Inferential%20Analysis-blueviolet?style=for-the-badge)
 
+#### - Soft Skills
+![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-orange?style=for-the-badge)
+
+<h3> - Skills I'm Currently Learning </h4>
+
 #### - Machine Learning & AI
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge)
 
-#### - Soft Skills
-![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/Adaptability-orange?style=for-the-badge)
 
