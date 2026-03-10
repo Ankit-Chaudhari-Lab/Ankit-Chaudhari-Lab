@@ -3,7 +3,7 @@
 <h2 align="center"> How can you Reach me👇 </h2>
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url) linkedin.com/in/ankit-chaudhari-3b18a7272
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ankit-chaudhari-3b18a7272)
 
 </p>
 
