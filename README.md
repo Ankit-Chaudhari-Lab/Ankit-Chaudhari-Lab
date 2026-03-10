@@ -7,12 +7,11 @@
 👉 linkedin.com/in/ankit-chaudhari-3b18a7272
 </a>
 
-  <a> <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+<a> <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 👉 ankitchaudhari1505@gmail.com </a>
 
-
-</p>
-
+<a> <img src="https://img.icons8.com/color/48/phone.png" width="40"/>
+👉 7709628532 </a>
 
   
 ![Python](https://img.shields.io/badge/Python-blue)
