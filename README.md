@@ -2,9 +2,18 @@
 <h3 align="center"> I live in Chandrapur📍 </h3>
 <h2 align="center"> How can you Reach me👇 </h2>
 
-<p href="your-linkedin-url" target="_blank">
+<a href="your-linkedin-url" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 👉linkedin.com/in/ankit-chaudhari-3b18a7272
+</a>
+
+<p align="center">
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  ankitchaudhari1505@gmail.com
+</a>
+
 </p>
 
 
