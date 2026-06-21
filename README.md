@@ -49,8 +49,6 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
-## Certifications
+## 🏆 Certifications & Badge
 
-<a href=(https://www.credly.com/users/ankit-chaudhari.b0e50415)>
-  <img src=(https://www.credly.com/badges/48eaf0bc-1db6-4527-a6ba-7be90917047a/public_url) width="150">
-</a>
+![Data_Science_Badge](python-for-data-science.png)
