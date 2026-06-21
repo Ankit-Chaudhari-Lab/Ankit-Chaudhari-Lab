@@ -54,3 +54,7 @@
 <a href="BADGE1_LINK">
   <img src="python-for-data-science.png" width="120">
 </a>
+
+<a href="BADGE2_LINK">
+  <img src="data-analysis-using-python.png" width="120">
+</a>
