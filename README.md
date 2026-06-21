@@ -42,6 +42,8 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-orange?style=for-the-badge)
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48eaf0bc-1db6-4527-a6ba-7be90917047a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h3> - Skills I'm Currently Learning </h4>
 
 #### - Machine Learning & AI
