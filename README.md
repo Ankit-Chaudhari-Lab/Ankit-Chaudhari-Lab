@@ -49,7 +49,10 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
-## 🏆 Certifications & Badge
+## 🏆 Certifications 
+
+
+## 🏆 Badge
 
 <a href="BADGE1_LINK">
   <img src="python-for-data-science.png" width="120">
