@@ -42,8 +42,6 @@
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-green?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-orange?style=for-the-badge)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="48eaf0bc-1db6-4527-a6ba-7be90917047a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <h3> - Skills I'm Currently Learning </h4>
 
 #### - Machine Learning & AI
@@ -51,4 +49,4 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
-
+<img src="[https://onrender.com](https://www.credly.com/users/ankit-chaudhari.b0e50415)" alt="Credly Badges"/>
