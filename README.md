@@ -52,11 +52,11 @@
 ## 🏆 Certifications 
 
 <a href="certification1_LINK">
-  <img src="DataAnalytics.png" width="200">
+  <img src="DataAnalytics.png" width="300">
 </a>
 
 <a href="certification2_LINK">
-  <img src="DataScience.png" width="200">
+  <img src="DataScience.png" width="300">
 </a>
 
 ## 🏆 Badge
