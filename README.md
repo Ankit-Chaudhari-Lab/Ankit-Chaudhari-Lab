@@ -49,4 +49,8 @@
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-8A2BE2?style=for-the-badge)
 
-<img src="[https://onrender.com](https://www.credly.com/users/ankit-chaudhari.b0e50415)" alt=(https://www.credly.com/badges/48eaf0bc-1db6-4527-a6ba-7be90917047a/public_url)/>
+## Certifications
+
+<a href=(https://www.credly.com/users/ankit-chaudhari.b0e50415)>
+  <img src=(https://www.credly.com/badges/48eaf0bc-1db6-4527-a6ba-7be90917047a/public_url) width="150">
+</a>
