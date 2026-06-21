@@ -51,10 +51,6 @@
 
 ## 🏆 Certifications & Badge
 
-![Data_Science_Badge](python-for-data-science.png)
-
-<h2>🏆 Certifications</h2>
-
 <a href="BADGE1_LINK">
   <img src="python-for-data-science.png" width="120">
 </a>
