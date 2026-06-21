@@ -62,9 +62,9 @@
 ## 🏆 Badge
 
 <a href="BADGE1_LINK">
-  <img src="python-for-data-science.png" width="300">
+  <img src="python-for-data-science.png" width="200">
 </a>
 
 <a href="BADGE2_LINK">
-  <img src="data-analysis-using-python.png" width="300">
+  <img src="data-analysis-using-python.png" width="200">
 </a>
